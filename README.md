@@ -1,3 +1,3 @@
 # apna-college-demo
-this is my 1st GIT Repository
+this is my 1st GIT Repository.
 Author - Shashi shekhar.
