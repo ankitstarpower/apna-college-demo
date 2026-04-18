@@ -1,4 +1,6 @@
 # apna-college-demo
 this is my 1st GIT Repository.
 <br>
-Author - Shashi shekhar.
+Author - Shashi shekhar baby.clear
+
+
